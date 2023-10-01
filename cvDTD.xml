@@ -1,0 +1,17 @@
+<!DOCTYPE CV [
+]>
+<curriculum_vitae>
+    <informations_personnelles>
+        <nom>Maaoui</nom>
+        <prénom>Karima</prénom>
+        <téléphone>+216232323</téléphone>
+        <email>maaouika07@gmail.com</email>
+    </informations_personnelles>
+    <éducation>
+        <diplôme>
+            <nom>Bachelor's Degree</nom>
+            <établissement>ISET Rades</établissement>
+            <année>2021</année>
+        </diplôme>
+    </éducation>
+  </CV>
